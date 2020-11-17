@@ -1,0 +1,8 @@
+=== GENERAR WAR Y PUBLICAR
+1. Abrir en "Eclipse Jee Mars"
+2. Botón derecho sobre nombre de proyecto
+3. Export > WAR file
+	- Elije la carpeta del Tomcat/webapps para que se despliegue del tirón
+	
+=== ENTRAR
+http://localhost:8080/IrregularVerbsGame

@@ -1,0 +1,11 @@
+.big-text, .medium-text, .small-text, .micro-text {
+	font-family: 'Comic Sans MS', 'Marker Felt', sans-serif;
+	margin: 0;
+}
+
+.big-text    { font-size: 50px; }
+.medium-text { font-size: 40px; }
+.small-text  { font-size: 30px; }
+.micro-text  { font-size: 20px; }
+
+.espanol { color: darkgreen; }

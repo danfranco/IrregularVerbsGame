@@ -1,0 +1,17 @@
+{
+	"gameDataType": "SimpleGameData",
+	"questionList": [
+		{ "esp": "significar", "ing": "mean" },
+		{ "esp": "conocer", "ing": "meet" },
+		{ "esp": "pagar", "ing": "pay" },
+		{ "esp": "poner", "ing": "put" },
+		{ "esp": "leer", "ing": "read" },
+		{ "esp": "montar", "ing": "ride" },
+		{ "esp": "telefonear", "ing": "ring" },
+		{ "esp": "correr", "ing": "run" },
+		{ "esp": "decir", "ing": "say" },
+		{ "esp": "ver", "ing": "see" },
+		{ "esp": "enviar", "ing": "send" },
+		{ "esp": "mostrar", "ing": "show" }
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"gameDataType": "GameData",
+	"questionList": [
+		{ "esp": "significar", "ing1": "mean", "ing2": "meant", "ing3": "meant" },
+		{ "esp": "conocer", "ing1": "meet", "ing2": "met", "ing3": "met" },
+		{ "esp": "pagar", "ing1": "pay", "ing2": "paid", "ing3": "paid" },
+		{ "esp": "poner", "ing1": "put", "ing2": "put", "ing3": "put" },
+		{ "esp": "leer", "ing1": "read", "ing2": "read", "ing3": "read" },
+		{ "esp": "montar", "ing1": "ride", "ing2": "rode", "ing3": "ridden" },
+		{ "esp": "telefonear", "ing1": "ring", "ing2": "rang", "ing3": "rung" },
+		{ "esp": "correr", "ing1": "run", "ing2": "ran", "ing3": "run" },
+		{ "esp": "decir", "ing1": "say", "ing2": "said", "ing3": "said" },
+		{ "esp": "ver", "ing1": "see", "ing2": "saw", "ing3": "seen" },
+		{ "esp": "enviar", "ing1": "send", "ing2": "sent", "ing3": "sent" },
+		{ "esp": "mostrar", "ing1": "show", "ing2": "showed", "ing3": "shown" }
+	]
+}

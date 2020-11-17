@@ -1,0 +1,38 @@
+{
+	"sectionList": [
+	    {
+	    	"label": "Select a selecting game:",
+	    	"gameUri": "game",
+	    	"gameList": [
+	    		{ "label": "Game 1", "file": "game1.json" },
+	    		{ "label": "Game 2", "file": "game2.json" },
+	    		{ "label": "Game 3", "file": "game3.json" },
+	    		{ "label": "Final Game", "file": "gameFinal.json" },
+	    		{ "label": "Game 4", "file": "game4.json" },
+	    		{ "label": "Game 5", "file": "game5.json" }
+	    	]
+	    },
+	    {
+	    	"label": "Or select a writing game:",
+	    	"gameUri": "gameWrite",
+	    	"gameList": [
+	    		{ "label": "Writing Game 1", "file": "game1.json" },
+	    		{ "label": "Writing Game 2", "file": "game2.json" },
+	    		{ "label": "Writing Game 3", "file": "game3.json" },
+	    		{ "label": "Final Writing Game", "file": "gameFinal.json" },
+	    		{ "label": "Writing Game 4", "file": "game4.json" },
+	    		{ "label": "Writing Game 5", "file": "game5.json" }
+	    	]
+	    },
+	    {
+	    	"label": "Or select a writing all game:",
+	    	"gameUri": "gameWriteAll",
+	    	"gameList": [
+	    		{ "label": "Writing All Game Ester 1", "file": "gameAllEster1.json" },
+	    		{ "label": "Writing All Game 1", "file": "gameAll1.json" },
+	    		{ "label": "Writing All Game 4", "file": "gameAll4.json" },
+	    		{ "label": "Writing All Game 5", "file": "gameAll5.json" }
+	    	]
+	    }
+	]
+}

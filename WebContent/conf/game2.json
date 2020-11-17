@@ -1,0 +1,16 @@
+{
+	"gameDataType": "SimpleGameData",
+	"questionList": [
+		{ "esp": "costar", "ing": "cost" },
+		{ "esp": "cortar", "ing": "cut" },
+		{ "esp": "hacer", "ing": "do" },
+		{ "esp": "dibujar", "ing": "draw" },
+		{ "esp": "so&ntilde;ar", "ing": "dream" },
+		{ "esp": "beber", "ing": "drink" },
+		{ "esp": "conducir", "ing": "drive" },
+		{ "esp": "comer", "ing": "eat" },
+		{ "esp": "caer", "ing": "fall" },
+		{ "esp": "sentir", "ing": "feel" },
+		{ "esp": "encontrar", "ing": "find" }
+	]
+}

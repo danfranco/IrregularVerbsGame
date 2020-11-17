@@ -1,0 +1,18 @@
+{
+	"gameDataType": "GameData",
+	"questionList": [
+		{ "esp": "cantar", "ing1": "sing", "ing2": "sang", "ing3": "sung" },
+		{ "esp": "sentarse", "ing1": "sit", "ing2": "sat", "ing3": "sat" },
+		{ "esp": "dormir", "ing1": "sleep", "ing2": "slept", "ing3": "slept" },
+		{ "esp": "hablar", "ing1": "speak", "ing2": "spoke", "ing3": "spoken" },
+		{ "esp": "deletrear", "ing1": "spell", "ing2": "spelt", "ing3": "spelt" },
+		{ "esp": "nadar", "ing1": "swim", "ing2": "swam", "ing3": "swum" },
+		{ "esp": "tomar", "ing1": "take", "ing2": "took", "ing3": "taken" },
+		{ "esp": "ense&ntilde;ar", "ing1": "teach", "ing2": "taught", "ing3": "taught" },
+		{ "esp": "decir", "ing1": "tell", "ing2": "told", "ing3": "told" },
+		{ "esp": "pensar", "ing1": "think", "ing2": "tought", "ing3": "tought" },
+		{ "esp": "llevar puesto", "ing1": "wear", "ing2": "wore", "ing3": "worn" },
+		{ "esp": "ganar", "ing1": "win", "ing2": "won", "ing3": "won" },
+		{ "esp": "escribir", "ing1": "write", "ing2": "wrote", "ing3": "written" }
+	]
+}

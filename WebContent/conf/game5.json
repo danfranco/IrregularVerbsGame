@@ -1,0 +1,18 @@
+{
+	"gameDataType": "SimpleGameData",
+	"questionList": [
+		{ "esp": "cantar", "ing": "sing" },
+		{ "esp": "sentarse", "ing": "sit" },
+		{ "esp": "dormir", "ing": "sleep" },
+		{ "esp": "hablar", "ing": "speak" },
+		{ "esp": "deletrear", "ing": "spell" },
+		{ "esp": "nadar", "ing": "swim" },
+		{ "esp": "tomar", "ing": "take" },
+		{ "esp": "ense&ntilde;ar", "ing": "teach" },
+		{ "esp": "decir", "ing": "tell" },
+		{ "esp": "pensar", "ing": "think" },
+		{ "esp": "llevar puesto", "ing": "wear" },
+		{ "esp": "ganar", "ing": "win" },
+		{ "esp": "escribir", "ing": "write" }
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"gameDataType": "SimpleGameData",
+	"questionList": [
+		{ "esp": "ser/estar", "ing": "be" },
+		{ "esp": "convertirse", "ing": "become" },
+		{ "esp": "comenzar", "ing": "begin" },
+		{ "esp": "soplar", "ing": "blow" },
+		{ "esp": "romper", "ing": "break" },
+		{ "esp": "traer", "ing": "bring" },
+		{ "esp": "construir", "ing": "build" },
+		{ "esp": "comprar", "ing": "buy" },
+		{ "esp": "atrapar", "ing": "catch" },
+		{ "esp": "venir", "ing": "come" }
+	]
+}

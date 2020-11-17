@@ -1,0 +1,17 @@
+{
+	"gameDataType": "SimpleGameData",
+	"questionList": [
+		{ "esp": "volar", "ing": "fly" },
+		{ "esp": "olvidar", "ing": "forget" },
+		{ "esp": "obtener", "ing": "get" },
+		{ "esp": "dar", "ing": "give" },
+		{ "esp": "ir", "ing": "go" },
+		{ "esp": "tener", "ing": "have" },
+		{ "esp": "o&iacute;r", "ing": "hear" },
+		{ "esp": "saber", "ing": "know" },
+		{ "esp": "aprender", "ing": "learn" },
+		{ "esp": "dejar", "ing": "let" },
+		{ "esp": "perder", "ing": "lose" },
+		{ "esp": "hacer", "ing": "make" }
+	]
+}

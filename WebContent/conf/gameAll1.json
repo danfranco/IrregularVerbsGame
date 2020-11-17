@@ -1,0 +1,15 @@
+{
+	"gameDataType": "GameData",
+	"questionList": [
+		{ "esp": "ser/estar", "ing1": "be", "ing2": "was/were", "ing3": "been" },
+		{ "esp": "venir", "ing1": "come", "ing2": "came", "ing3": "come" },
+		{ "esp": "convertirse", "ing1": "become", "ing2": "became", "ing3": "become" },
+		{ "esp": "comenzar", "ing1": "begin", "ing2": "began", "ing3": "begun" },
+		{ "esp": "soplar", "ing1": "blow", "ing2": "blew", "ing3": "blown" },
+		{ "esp": "romper", "ing1": "break", "ing2": "broke", "ing3": "broken" },
+		{ "esp": "construir", "ing1": "build", "ing2": "built", "ing3": "built" },
+		{ "esp": "traer", "ing1": "bring", "ing2": "brought", "ing3": "brought" },
+		{ "esp": "comprar", "ing1": "buy", "ing2": "bought", "ing3": "bought" },
+		{ "esp": "atrapar", "ing1": "catch", "ing2": "caught", "ing3": "caught" }
+	]
+}
